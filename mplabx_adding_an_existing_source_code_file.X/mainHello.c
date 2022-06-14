@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2022 xxxx
+ * Copyright (C) 2022 Microchip Technology Inc. and its subsidiaries
  *
  * File:            main.c
  * Project:         mplabx_adding_an_existing_source_code_file

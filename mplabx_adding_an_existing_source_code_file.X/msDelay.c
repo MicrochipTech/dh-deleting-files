@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2022 xxxx
+ * Copyright (C) 2022 Microchip Technology Inc. and its subsidiaries
  *
  * File:            msDelay.c
  * Project:         
